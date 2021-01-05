@@ -1,2 +1,4 @@
 # economic-management
-economic management for non-economical students in beihang university
+Economic management for non-economical students in beihang university.
+
+Happy final exam!(real final)
